@@ -239,7 +239,7 @@
     <div class="col-sm-8">
       <h2>Tentang Persetan FC</h2><br>
       <h4>Kami adalah sebuat team sepak bola di yogyakarta , lebih tepatnya beralamat di Tirisan , Pringombo,Rongkop Gunungkidul.</h4><br>
-      <p>Kami memiliki team yang sebagian masih pelajar dan dengan adanya team ini maka hobi dan bakat sepakbola bisa tersalurkan.</p>
+      <h5>Kami memiliki team yang sebagian masih pelajar dan dengan adanya team ini maka hobi dan bakat sepakbola bisa tersalurkan.</h5>
       <br><button class="btn btn-default btn-lg">Baca selangkapnya...</button>
     </div>
     <div class="col-sm-4">
