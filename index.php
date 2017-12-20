@@ -228,7 +228,7 @@
   <h1>PERSETAN FC</h1> 
   <p>Persatuan Sepak Bola Tirisan</p> 
   <form class="form-inline">
-    <input type="email" class="form-control" size="50" placeholder="Email Address" required>
+    <input type="email" class="form-control" size="50" placeholder="Masukkan nama pemain" required>
     <button type="button" class="btn btn-danger">Cari Pemain</button>
   </form>
 </div>
