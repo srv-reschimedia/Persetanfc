@@ -201,7 +201,7 @@
   }
   </style>
 </head>
-<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+<body id="particles-js" data-spy="scroll" data-target=".navbar" data-offset="60" >
 
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
@@ -219,22 +219,16 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">ABOUT</a></li>
-        <li><a href="#services">SERVICES</a></li>
-        <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li><a href="#pricing">PRICING</a></li>
-        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="#services">Pertandingan</a></li>
+        <li><a href="#portfolio">Galery team</a></li>
+        <li><a href="#contact">Hubungi Kami</a></li>
       </ul>
     </div>
   </div>
 </nav>
 
 
-<div id="particles-js"></div>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js'></script>
-<script src='https://threejs.org/examples/js/libs/stats.min.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-<script  src="js/index.js"></script>
+
 
 <div class="jumbotron text-center">
   <h1>PERSETAN FC</h1> 
@@ -245,11 +239,6 @@
   </form>
 </div>
 
-
-
-
-
-<div id="particles-js"></div>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js'></script>
 <script src='https://threejs.org/examples/js/libs/stats.min.js'></script>
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
