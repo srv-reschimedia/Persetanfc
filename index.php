@@ -12,6 +12,7 @@
   <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
   <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="css/logo.png" />
 
 
   <script src="style/js/jquery.min.js"></script>
