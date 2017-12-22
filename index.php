@@ -197,6 +197,7 @@
     }
     .navbar-header .logoatas img{
       width:20px;
+      margin-left: 20px;
     }
   }
   </style>
