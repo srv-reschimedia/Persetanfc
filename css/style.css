@@ -1330,3 +1330,12 @@ h3 {
   background-repeat: no-repeat;
   max-height: 500px;
 }
+
+@media screen and (max-width: 767px) {
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  max-height: 500px;
+}
+}

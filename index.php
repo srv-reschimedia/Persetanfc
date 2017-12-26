@@ -243,6 +243,13 @@
 
 
 <div class="jumbotron text-center">
+
+  <div class="text-center" style="margin-bottom:1px;">
+      <a>
+        <img src="css/logo.png" style="width: 10%;">
+      </a>   
+  </div>
+
   <h1>PERSETAN FC</h1> 
   <p>Persatuan Sepak Bola Tirisan</p> 
   <form class="form-inline">
@@ -262,11 +269,7 @@
 
  <section class="container" >
     <div class="page-header">
-<div class="text-center" style="margin-bottom:15px;">
-  <a>
-        <img src="css/logo.png" style="width: 10%;">
-      </a>
-</div>
+
 <div id="mycarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -414,18 +417,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Purple">
                 <h2>
-                    <span>Clint Eastwood</span>
+                    <span>Fendi Kurniawan</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Million Dollar Baby
+                        Posisi : Gelandang Bertahan
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/24301067_972864322860866_9210295865535074167_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHk5g-nIrQBEYC9IyetKDertt8aOdWYN1uOUI1bIcac718d4GuvmB_41JkUDJ9iN-BRhKw-hVo9t_RHAxG88NNe9tThCK7gufdvsdZ15uBj7g&oh=2731f26409d072e6b6aca09daa40471f&oe=5ABE79AC">
                     </div>
                     <div class="mc-description">
-                        He rose to international fame with his role as the Man with No Name in Sergio Leone's Dollars trilogy of spaghetti Westerns during the 1960s ...
+                      Nama : Fendi Kurniawan <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang serang , Gelandang Bertahan<br>
+                      No punggung  : #<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -435,7 +442,7 @@
                     <h4>
                         Social
                     </h4>
-                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-facebook" href="https://web.facebook.com/fendy.aremaniajogja.5"></a>
                     <a class="fa fa-fw fa-twitter"></a>
                     <a class="fa fa-fw fa-linkedin"></a>
                     <a class="fa fa-fw fa-google-plus"></a>
@@ -445,18 +452,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Deep-Purple">
                 <h2>
-                    <span>Dustin Hoffman</span>
+                    <span>Anung Cahya R</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Kramer vs. Kramer
+                        Posisi : Goal kiper , Bek
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/22221969_121869995231575_6114124362137748256_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeFUaxC4jIqqs56zeUhZQO98cavnM4L1TEWIXpxm5gUSQVJ4cdCPVz1OO9n9zVVKpxAE4T9xcLDSoJ-zqW2gkRFoQMUockvdHB5Hu5X2L6G_KA&oh=fc3952f8bd298d07b5c8ab87667f3147&oe=5AB3461C">
                     </div>
                     <div class="mc-description">
-                        He has been known for his versatile portrayals of antiheroes and vulnerable characters.[3] He won the Academy Award for Kramer vs. Kramer in 1979 ...
+                        Nama : Anung Cahya R <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -466,7 +477,7 @@
                     <h4>
                         Social
                     </h4>
-                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-facebook" href="https://web.facebook.com/anung.rahmawan.3"></a>
                     <a class="fa fa-fw fa-twitter"></a>
                     <a class="fa fa-fw fa-linkedin"></a>
                     <a class="fa fa-fw fa-google-plus"></a>
@@ -476,18 +487,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Indigo">
                 <h2>
-                    <span>Edward Norton</span>
+                    <span>Gotrex</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        American History X
+                        Bek Tengah (Center-Back)
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/20140127_1630855030321509_2359207741872072902_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeE3rPuzvl5nekDYws2mkvzHzgHKzOP608nES6gL8yu3JX2W53ajxxI7w3yuu0i2z0sPzyxHUB1K-iJ5rJTq7uzP9oEPH_jyu88R6Cc9cwSD8w&oh=4be6e25d6ece7281b2bc7f05c07e3b46&oe=5ACA4558">
                     </div>
                     <div class="mc-description">
-                        He has been nominated for three Academy Awards for his work in the films Primal Fear, American History X and Birdman. He also starred in other roles ...
+                        Nama : Triono<br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -497,7 +512,7 @@
                     <h4>
                         Social
                     </h4>
-                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-facebook" href="https://web.facebook.com/gotrrex"></a>
                     <a class="fa fa-fw fa-twitter"></a>
                     <a class="fa fa-fw fa-linkedin"></a>
                     <a class="fa fa-fw fa-google-plus"></a>
@@ -507,18 +522,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Blue">
                 <h2>
-                    <span>Michael Caine</span>
+                    <span>Affroni Usman</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Educated Rita
+                        Penyerang (Forward)
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/19598489_1168908299881423_8947472268792302301_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeFqDg2pR2YNtElCgUmtt1vQLb9Rv-ExdrBIvz1qMtlALThncN1ccDUUBgii_B7uX-qqHw3cFt57EWkK6S3HupKGXIpuXoBu6Mf3-t0DBQNbOQ&oh=9d9435c77086c188930eb537b0b26312&oe=5AB7239D">
                     </div>
                     <div class="mc-description">
-                        English actor and author. Renowned for his distinctive working class cockney accent, Caine has appeared in over 115 films and is regarded as a British ...
+                         Nama : Affroni Usman<br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -528,7 +547,7 @@
                     <h4>
                         Social
                     </h4>
-                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-facebook" href="https://web.facebook.com/ronny.alexandrya"></a>
                     <a class="fa fa-fw fa-twitter"></a>
                     <a class="fa fa-fw fa-linkedin"></a>
                     <a class="fa fa-fw fa-google-plus"></a>
@@ -538,18 +557,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Light-Blue">
                 <h2>
-                    <span>Harvey Keitel</span>
+                    <span>Wahyu Hanan</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Pulp Fiction
+                        Bek Sayap (Wing-Back)
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/12299153_1153476501346827_4416539304146095007_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHsDABM6KRxHn2nEQzgNOhNC26YNa4v8mWQ46tfrmmye_rUO1L2jVXzFy6K2c8cKU2E2qQwRBEXH828ztyjZJ57wEsIbKSMojbDz6WLZMqenw&oh=dd8d0d1fac11612778407c87cd7a9a77&oe=5AC84401">
                     </div>
                     <div class="mc-description">
-                        Some of his most notable starring roles were in Martin Scorsese's Mean Streets and Taxi Driver, Ridley Scott's The Duellists and Thelma & Louise, Quentin Tarantino ...
+                         Nama : Wahyu Hanan <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -559,7 +582,7 @@
                     <h4>
                         Social
                     </h4>
-                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-facebook" href="https://web.facebook.com/wahyu.hanan.3"></a>
                     <a class="fa fa-fw fa-twitter"></a>
                     <a class="fa fa-fw fa-linkedin"></a>
                     <a class="fa fa-fw fa-google-plus"></a>
@@ -569,18 +592,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Cyan">
                 <h2>
-                    <span>Jack Nicholson</span>
+                    <span>Ardha Ferdian</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        The Shining
+                        Gelandang Tengah
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/10426612_558237687618953_7712534455367424255_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHleHpYMe-udKIqteec92pPw4LYMLeu2M-pvesxZ-_6PLXLqXSarfuVltbIYexSAmvcSfT_dRYPhztpbIS3HwRs6KMC6fib9nLVyqc0yZ8ZkQ&oh=048a227516bc0c6b21af5fe19b0caf5d&oe=5AC19639">
                     </div>
                     <div class="mc-description">
-                        Throughout his career, Nicholson has portrayed unique and challenging roles, many of which include dark portrayals of excitable, neurotic and psychopathic characters ...
+                         Nama : Ardha Ferdian <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -600,18 +627,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Teal">
                 <h2>
-                    <span>Jeff Bridges</span>
+                    <span>Puji Dobleng</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        The Big Lebowski
+                        Penyerang
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/15391143_1293303300742904_7180734884242400876_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHMsaYINOBNV2EDyC-GZE9-5nPzXjFXtEB26LIrhpd4DH2yqm4hqd3xRJxCXw90IsBqLMqQGBQ2cXdWfMe4f56ymVWfqHufMgafhXu4vu3NzA&oh=3fe1f27a2fc22e70f68abae1a048f68e&oe=5AB6158A">
                     </div>
                     <div class="mc-description">
-                        He comes from a well-known acting family and began his televised acting in 1958 as a child with his father, Lloyd Bridges, and brother, Beau, on television's Sea Hunt ...
+                         Nama : Puji Dobleng <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -621,7 +652,7 @@
                     <h4>
                         Social
                     </h4>
-                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-facebook" href="https://web.facebook.com/puji.doublenkz"></a>
                     <a class="fa fa-fw fa-twitter"></a>
                     <a class="fa fa-fw fa-linkedin"></a>
                     <a class="fa fa-fw fa-google-plus"></a>
@@ -631,18 +662,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Green">
                 <h2>
-                    <span>Joaquin Phoenix</span>
+                    <span>Dandi S</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Her
+                        Gelandang Tengah
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/25593842_109776003154204_2913098306137175791_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHFLoWcpXE1y2IvktiQdSWxqGSIIADDwWWe6MPrl3GmCRMvgbu5TtTXqj7xLj3HU0v4lhUtS7jD9nCgjmCd2NbO0ffszWYJE0VnOGNAhclAXw&oh=5dbf39c14f03f47608c725a66eb56330&oe=5AC0E9C2">
                     </div>
                     <div class="mc-description">
-                        is an American actor, producer, music video director, musician and activist. For his work as an artist, Phoenix has received a Grammy Award, a Golden Globe Award and three Academy ...
+                         Nama : Dandi S <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -662,18 +697,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Light-Green">
                 <h2>
-                    <span>Tom Hanks</span>
+                    <span>Ihsan Novariz</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Forrest Gump
+                        Gelandang Tengah
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/10891691_897375646969698_6658808507082361966_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHi-fQg43AqwxiSZ_ffmGs3QmhfiysvVlyhEAyzo3yS2TFt28AtwToEXsSArDZgRVNxQSMg9DVVqZUchRC2ZrsYmJv3tJA40l8-jDcDLQkmow&oh=9c2c9788e36c7b10bcda1fbfc29b187c&oe=5AFE8905">
                     </div>
                     <div class="mc-description">
-                        He is known for his roles in Big (1988), Philadelphia (1993), Forrest Gump (1994), Apollo 13 (1995), Saving Private Ryan, You've Got Mail (both 1998), The Green Mile (1999), Cast Away (2000) ...
+                         Nama : Dani <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -693,18 +732,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Lime">
                 <h2>
-                    <span>Philip Seymour Hoffman</span>
+                    <span>Tatak S</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        25th Hour
+                        Sayap , Penyerang
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/281207_230780880290099_3225198_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHpQZU41KBzyNhGB_3FnLsPoNFvsjuMfWKH-Lmku83gPCi_hWkCdV_QS3XkaICHuFyabl9lNj6HHfdYUR-vL2RltOurKYR7r7-hd0Mbq-x7hA&oh=b4a0713f6cf06512dc55a6ecd04f0b69&oe=5AC42FD6">
                     </div>
                     <div class="mc-description">
-                        Best known for his distinctive supporting and character roles – typically lowlifes, bullies, and misfits – Hoffman was a regular presence in films from the early 1990s until his death at age 46.
+                         Nama : Tatak S <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -724,18 +767,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Yellow">
                 <h2>
-                    <span>Paul Newman</span>
+                    <span>Wawan</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        The Color of Money
+                        Penyerang
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/17861482_1297011737020030_6531339569929085082_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeG_8_fh9r3wH1w2y7uR61e_zGso8E_nUwZNaPfKZATwTnsWnQkRlfbpKGitzynhODlt90nk6Oj5azdvvI6WVETIYlf-CNftZjCGorgkMc0Ahw&oh=bb9529aa74ca569689c8fa4e2534dd04&oe=5AFBF516">
                     </div>
                     <div class="mc-description">
-                        He won numerous awards, including an Academy Award for his performance in the 1986 film The Color of Money,[3] a BAFTA Award, a Screen Actors Guild Award, a Cannes Film Festival Award, an Emmy Award ...
+                         Nama : Wawan <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -755,18 +802,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Amber">
                 <h2>
-                    <span>Marlon Brando</span>
+                    <span>Ahmad Lilik R</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        The Godfather
+                        Bek Tengah , Bek sayap
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/21768119_789816011205061_6624464577738927436_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeFCaoa0DFtLOwXwlHD8FVT7LleYzYsNWtzeYIuRQn_eIZvrw6PbV92fKpLlDgUi1geO9tjkNP7aT3Kv99O1V4mI3X-fwEyb_DQCtmOozjfT7A&oh=ed3df0f50c3b33ec1e01934a3186db5e&oe=5ACC73C5">
                     </div>
                     <div class="mc-description">
-                        He is hailed for bringing a gripping realism to film acting, and is frequently cited as the greatest and most influential actor of all time.[2] A cultural icon, Brando is most famous for his Academy ...
+                         Nama : Ahmad Lilik R <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -786,18 +837,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Orange">
                 <h2>
-                    <span>Kevin Spacey</span>
+                    <span>Anton Ardhi N</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        American Beauty
+                        Bek Tengah , Bek sayap
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/10371361_663399123728699_5795296308605066217_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeH2Cqt2MtX2JIQtH007FgGA40Ttnu4qDat37Yi8HMPrjKfddKmYjbKNoF1FkhGTiNV6jPte1EhcxxWK_2MAvNlxI5rEdoJEsAkBSn5IYebLVA&oh=1466844834e197c48799c9236064a9ff&oe=5ACB2812">
                     </div>
                     <div class="mc-description">
-                        He began his career as a stage actor during the 1980s, before being cast in supporting roles in film and television. He gained critical acclaim in the early 1990s, culminating in his first Academy Award ...
+                         Nama : Anton Ardhi N <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -817,18 +872,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Deep-Orange">
                 <h2>
-                    <span>Robert De Niro</span>
+                    <span>Dony adetiyan</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Taxy Driver
+                        Goal Kiper
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/17424829_597004893821836_2015045271117450670_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHSpbK8gml6oDuoP9x-DNaXDPKZrlVzb7d3PKEohYNM35aHd7EHwY-HeQqhPjMvC5DLBqU8o4wSljhLcbZZJAyUb3N6tTEJE_MaMNQ87g1-Zg&oh=b94bdeed96814781dbaf8d3728d4ecaf&oe=5AB4CF13">
                     </div>
                     <div class="mc-description">
-                        His first major film roles were in the sports drama Bang the Drum Slowly (1973) and Martin Scorsese's crime film Mean Streets (1973). In 1974, after being turned down for the role of Sonny Corleone in the crime ...
+                         Nama : Dwi Arizha Angga Bayu Permana <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -848,18 +907,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Brown">
                 <h2>
-                    <span>Steve Mcqueen</span>
+                    <span>Febri Atmoko</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Papillon
+                        Bek Sayap
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/22008324_861704447328292_8216113339620193526_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeEQTKS0xsZddvhIOYKG2SU0d5EZ_KEQZOhd_Gnkjrttjegqp2ZhVXFVv3AHCw7Ff3cbGHhiu9MZqO-Hb3RpQ1rrOagvWLg-bDUt_GtMGsATlg&oh=8c9607b14da9e52710a3af28847d8b64&oe=5AB51EFC">
                     </div>
                     <div class="mc-description">
-                        Called "The King of Cool", his "anti-hero" persona, developed at the height of the Vietnam War-era counterculture, made him a top box-office draw of the 1960s and 1970s. McQueen received an Academy Award nomination for his ...
+                        Nama : Febri Atmoko <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -879,18 +942,22 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Grey">
                 <h2>
-                    <span>Rugter Hauer</span>
+                    <span>Aguz Febriant</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Blade Runner
+                        Bek Sayap
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/24796303_1951125445142742_5119513863667217207_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeEJA45fGpYl96zW-dfiP_00xUmLrIunmxXlIQdpQt5MjLTKwL_oijyArdVTqt8pt_fBm0dV5VRDS7Oq-CmbfaEPM4fiiQg8i_NUw61TlWVtOg&oh=3c8f06a3f4c3b927e36af8ff071ab637&oe=5AB32B1F">
                     </div>
                     <div class="mc-description">
-                        Blonde, blue-eyed, tall and handsome Dutch actor Rutger Hauer has an international reputation for playing everything from romantic leads to action heroes to sinister villains. Hauer was born in Breukelen, a town in the province ...
+                         Nama : Dwi Arizha Angga Bayu Permana <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -910,18 +977,94 @@
         <div class="col-md-4 col-sm-6 col-xs-12">
             <article class="material-card Blue-Grey">
                     <h2>
-                    <span>Morgan Freeman</span>
+                    <span>Rahmad Firmansyah</span>
                     <strong>
                         <i class="fa fa-fw fa-star"></i>
-                        Glory
+                        Sayap , Penyerang
                     </strong>
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/19275289_561239174265084_4936263814030309634_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeHi3LarQ4JvjqjOwANg1q2KHh3-eEYpPbwAvsSPwuoWkfnXcwBAcTs_eEBwHOxpLAOPTPODMzqxG9gNNBflhMUEwOn7XPy49ca9oTTsr4DGjA&oh=ea9822b053fbbf777e7f94143e3ea15b&oe=5ABF8CBE">
                     </div>
                     <div class="mc-description">
-                        Freeman has received Academy Award nominations for his performances in Street Smart, Driving Miss Daisy, The Shawshank Redemption and Invictus ...
+                         Nama : Rahmad Firmansyah <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
+                    </div>
+                </div>
+                <a class="mc-btn-action">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div class="mc-footer">
+                    <h4>
+                        Social
+                    </h4>
+                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-twitter"></a>
+                    <a class="fa fa-fw fa-linkedin"></a>
+                    <a class="fa fa-fw fa-google-plus"></a>
+                </div>
+            </article>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <article class="material-card Blue-Grey">
+                    <h2>
+                    <span>Iwan Ndoko</span>
+                    <strong>
+                        <i class="fa fa-fw fa-star"></i>
+                        Gelandang Tengah
+                    </strong>
+                </h2>
+                <div class="mc-content">
+                    <div class="img-container">
+                        <img class="img-responsive" src="http://localhost/website/Persetanfc/css/logo.png">
+                    </div>
+                    <div class="mc-description">
+                         Nama : Rahmad Firmansyah <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
+                    </div>
+                </div>
+                <a class="mc-btn-action">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div class="mc-footer">
+                    <h4>
+                        Social
+                    </h4>
+                    <a class="fa fa-fw fa-facebook"></a>
+                    <a class="fa fa-fw fa-twitter"></a>
+                    <a class="fa fa-fw fa-linkedin"></a>
+                    <a class="fa fa-fw fa-google-plus"></a>
+                </div>
+            </article>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <article class="material-card Blue-Grey">
+                    <h2>
+                    <span>Dani S</span>
+                    <strong>
+                        <i class="fa fa-fw fa-star"></i>
+                        Bek Sayap
+                    </strong>
+                </h2>
+                <div class="mc-content">
+                    <div class="img-container">
+                        <img class="img-responsive" src="http://localhost/website/Persetanfc/css/logo.png">
+                    </div>
+                    <div class="mc-description">
+                         Nama : Rahmad Firmansyah <br>
+                      Tempat Lahir : Yogyakarta,Indonesia<br>
+                      Klub         : <a href="https://persetanfc.com/">PERSETAN FC</a><br>
+                      Posisi       : Gelandang Tengah<br>
+                      No punggung  : 19<br>
                     </div>
                 </div>
                 <a class="mc-btn-action">
@@ -949,7 +1092,14 @@
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
   <p style="color: #fff;">Copyright © 2017 Persetan FC ( Persatuan Sepak Bola Tirisan) . All Rights Reserved.
-Persetan FC Theme by Reschi Media <a href="https://reschimedia.com" title="Visit Reschi Media">www.reschimedia.com</a></p>    
+Persetan FC Theme by Reschi Media <a href="https://reschimedia.com" title="Visit Reschi Media">www.reschimedia.com</a></p> 
+
+<div class="text-center" style="margin-bottom:1px;">
+  <a>
+        <img src="css/logo.png" style="width: 5%;">
+      </a>   
+
+</div>
 </footer>
 
 
