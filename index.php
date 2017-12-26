@@ -15,8 +15,8 @@
   <link rel="icon" type="image/png" href="css/logo.png" />
 
 
-  <link rel='stylesheet prefetch' href='http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'>
-<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css'>
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
 
 
   <script src="style/js/jquery.min.js"></script>
@@ -151,7 +151,8 @@
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
-      color: #fff !important;
+      color: #fff;
+
   }
   footer .glyphicon {
       font-size: 20px;
@@ -213,12 +214,12 @@
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
+        <span class="icon-bar" style="background-color: #fff;"></span>
+        <span class="icon-bar" style="background-color: #fff;"></span>
+        <span class="icon-bar" style="background-color: #fff;"></span>                        
       </button>
 
-      <a class="logoatas" href="#myPage">
+      <a class="logoatas" href="https://persetanfc.com">
         <img src="style\assets\images/persetanlogo.png" style="width: 170px; margin-top: 5px; margin-bottom: 5px;">
       </a>
 
@@ -256,7 +257,7 @@
     <div class="page-header">
 
       <a class="text-center">
-        <img src="style\assets\images/persetanlogo.png">
+        <img src="style\assets\images/persetanlogo.png" style="width: 100%;">
       </a>
 
         <h1 class="text-center" style="color: #FFFFFF">Daftar Pemain<br>
