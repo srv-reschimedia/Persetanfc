@@ -46,7 +46,7 @@
   .jumbotron {
       background-color: #F90A0A;
       color: #fff;
-      padding: 100px 25px;
+      padding: 100px 25px 10px 25px;
       font-family: Montserrat, sans-serif;
   }
   .container-fluid {
@@ -154,6 +154,13 @@
       color: #fff;
 
   }
+
+ footer {
+
+   background-color: #EB0808;
+ }
+
+
   footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
@@ -255,13 +262,79 @@
 
  <section class="container" >
     <div class="page-header">
+<div class="text-center" style="margin-bottom:15px;">
+  <a>
+        <img src="css/logo.png" style="width: 10%;">
+      </a>
+</div>
+<div id="mycarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#mycarousel" data-slide-to="1"></li>
+    <li data-target="#mycarousel" data-slide-to="2"></li>
+    <li data-target="#mycarousel" data-slide-to="3"></li>
+    <li data-target="#mycarousel" data-slide-to="4"></li>
+  </ol>
 
-      <a class="text-center">
-        <img src="style\assets\images/persetanlogo.png" style="width: 100%;">
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item">
+        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/20729392_1638711876193077_8631122002823883906_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeE2sbM9-gZxQtmis91VmK7fUKRgoOj4GIov1A2mxlpr0_VLQ6UarvlSHHAaIYG4HuKvI5YhkpwUxpAdZp41mcpFju4Q5ts8u__PtDhYZrcV4g&oh=7231f1b5529d7153d8a43de6b457257d&oe=5AB1422B" alt="First Image" style="width: 100px;">
+        <div class="carousel-caption">
+            <h3>First Image</h3>
+        </div>
+    </div>
+    <div class="item">
+        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/20727832_1633694770028121_5828687407558440573_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeEiH_SAAIZNifCiJJQphO_auUeqGm9j3FERJUpNVRh3ZRdM_JSgtW2lzwfZVymLK-l1jbmPgKbFWmpX4imR5kbJM7HNexIyYIkGDYD9ZyaRCQ&oh=e78fbc5aa27257ed5df9d458375ac38a&oe=5AB53E03" data-color="firebrick" alt="Second Image">
+        <div class="carousel-caption">
+            <h3>Second Image</h3>
+        </div>
+    </div>
+    <div class="item">
+        <img src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/20431560_1626341720763426_1998902782072659534_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeFXGY2TmZiCEevkkea01m2aQ_mKL89jJAfZ161HDov2kgCVTD6Wfq6SVCoK-eatNkUTcRp6z7AVblgr1oOOqITfX7pwwIUhlf1OTk5e9pFQmQ&oh=8619f35362adba1737199918dda89f32&oe=5AF7BA8A" data-color="violet" alt="Third Image">
+        <div class="carousel-caption">
+            <h3>Third Image</h3>
+        </div>
+    </div>
+    <div class="item">
+        <img src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/14021561_1235070053223930_740521347758533937_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeGoU7_9lUQe-AfRWPfRQowoUqSqwx7rBNVuIWrL7rs4pJfngktAYgkUorMltTEl4lScIn7zyhekhLKyUvoZ6jWbECmJak7PLTP_-XD_itnDLQ&oh=8c1966c3c8dfda17360c10b6b897bca1&oe=5AC46998" data-color="lightgreen" alt="Fourth Image">
+        <div class="carousel-caption">
+            <h3>Fourth Image</h3>
+        </div>
+    </div>
+    <div class="item">
+        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/12994400_1153634044700865_8376730717030738370_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeGuA0iSqss5EAZI-mRkL4_TV3UcY0oUaTc_SvOeUxe6WMwgHfYqYFzyqm7GEK_GdEHl_lZ_FKxw72L9IgBJwpvQS_eLbSem_sZuZgc8tHXiow&oh=8b812ebadbc3bb09fc03897417e3c210&oe=5ABB93C8" data-color="tomato" alt="Fifth Image">
+        <div class="carousel-caption">
+            <h3>Fifth Image</h3>
+        </div>
+    </div>
+  </div>
+
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#mycarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#mycarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+
+
+
+
+
+        <h1 class="text-center" style="color: #FFFFFF; padding-top: 32px;">Galery Daftar Pemain Team<br>
+           <a class="text-center">
+        <img src="css/logo.png" style="width: 10%;">
       </a>
 
-        <h1 class="text-center" style="color: #FFFFFF">Daftar Pemain<br>
-          <small style="color: #FFFFFF"> PERSETAN FC (Persatuan Sepak Bola Tirisan)</small></h1>
+          </h1>
     </div>
     <div class="row active-with-click">
         <div class="col-md-4 col-sm-6 col-xs-12">
@@ -275,7 +348,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
+                        <img class="img-responsive" src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/17554063_1484923214905278_2706568536526203290_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeE-bODksVbZyJQ8u74Li7GFgPr5Q1tCc-CJiEkslwm0ATvJt_jzGzs-XLRhDzaFUb7h3HEUCLWtoYSeU-o7e_fFS3HB0BYm5wOWRbgyff60jA&oh=ce21ff390fde750478fd993938375e0e&oe=5AF91E76">
                     </div>
                     <div class="mc-description">
                         
@@ -871,9 +944,20 @@
 
 <!--akhir card -->
 
+<footer class="container-fluid text-center">
+  <a href="#particles-js" title="To Top">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a>
+  <p style="color: #fff;">Copyright © 2017 Persetan FC ( Persatuan Sepak Bola Tirisan) . All Rights Reserved.
+Persetan FC Theme by Reschi Media <a href="https://reschimedia.com" title="Visit Reschi Media">www.reschimedia.com</a></p>    
+</footer>
+
+
 
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
  <script  src="js/index-card.js"></script>
+ <script  src="js/slide.js"></script>
 
 </body>
 </html>
