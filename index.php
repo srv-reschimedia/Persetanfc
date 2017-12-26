@@ -280,31 +280,31 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item">
-        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/20729392_1638711876193077_8631122002823883906_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeE2sbM9-gZxQtmis91VmK7fUKRgoOj4GIov1A2mxlpr0_VLQ6UarvlSHHAaIYG4HuKvI5YhkpwUxpAdZp41mcpFju4Q5ts8u__PtDhYZrcV4g&oh=7231f1b5529d7153d8a43de6b457257d&oe=5AB1422B" alt="First Image" style="width: 100px;">
+        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/20729392_1638711876193077_8631122002823883906_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeE2sbM9-gZxQtmis91VmK7fUKRgoOj4GIov1A2mxlpr0_VLQ6UarvlSHHAaIYG4HuKvI5YhkpwUxpAdZp41mcpFju4Q5ts8u__PtDhYZrcV4g&oh=7231f1b5529d7153d8a43de6b457257d&oe=5AB1422B" alt="First Image" style="width: 100%;">
         <div class="carousel-caption">
             <h3>First Image</h3>
         </div>
     </div>
     <div class="item">
-        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/20727832_1633694770028121_5828687407558440573_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeEiH_SAAIZNifCiJJQphO_auUeqGm9j3FERJUpNVRh3ZRdM_JSgtW2lzwfZVymLK-l1jbmPgKbFWmpX4imR5kbJM7HNexIyYIkGDYD9ZyaRCQ&oh=e78fbc5aa27257ed5df9d458375ac38a&oe=5AB53E03" data-color="firebrick" alt="Second Image">
+        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/20727832_1633694770028121_5828687407558440573_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeEiH_SAAIZNifCiJJQphO_auUeqGm9j3FERJUpNVRh3ZRdM_JSgtW2lzwfZVymLK-l1jbmPgKbFWmpX4imR5kbJM7HNexIyYIkGDYD9ZyaRCQ&oh=e78fbc5aa27257ed5df9d458375ac38a&oe=5AB53E03" data-color="firebrick" alt="Second Image" style="width: 100%;">
         <div class="carousel-caption">
             <h3>Second Image</h3>
         </div>
     </div>
     <div class="item">
-        <img src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/20431560_1626341720763426_1998902782072659534_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeFXGY2TmZiCEevkkea01m2aQ_mKL89jJAfZ161HDov2kgCVTD6Wfq6SVCoK-eatNkUTcRp6z7AVblgr1oOOqITfX7pwwIUhlf1OTk5e9pFQmQ&oh=8619f35362adba1737199918dda89f32&oe=5AF7BA8A" data-color="violet" alt="Third Image">
+        <img src="https://scontent.fsub6-1.fna.fbcdn.net/v/t1.0-9/20431560_1626341720763426_1998902782072659534_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeFXGY2TmZiCEevkkea01m2aQ_mKL89jJAfZ161HDov2kgCVTD6Wfq6SVCoK-eatNkUTcRp6z7AVblgr1oOOqITfX7pwwIUhlf1OTk5e9pFQmQ&oh=8619f35362adba1737199918dda89f32&oe=5AF7BA8A" data-color="violet" alt="Third Image" style="width: 100%;">
         <div class="carousel-caption">
             <h3>Third Image</h3>
         </div>
     </div>
     <div class="item">
-        <img src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/14021561_1235070053223930_740521347758533937_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeGoU7_9lUQe-AfRWPfRQowoUqSqwx7rBNVuIWrL7rs4pJfngktAYgkUorMltTEl4lScIn7zyhekhLKyUvoZ6jWbECmJak7PLTP_-XD_itnDLQ&oh=8c1966c3c8dfda17360c10b6b897bca1&oe=5AC46998" data-color="lightgreen" alt="Fourth Image">
+        <img src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/14021561_1235070053223930_740521347758533937_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeGoU7_9lUQe-AfRWPfRQowoUqSqwx7rBNVuIWrL7rs4pJfngktAYgkUorMltTEl4lScIn7zyhekhLKyUvoZ6jWbECmJak7PLTP_-XD_itnDLQ&oh=8c1966c3c8dfda17360c10b6b897bca1&oe=5AC46998" data-color="lightgreen" alt="Fourth Image" style="width: 100%;">
         <div class="carousel-caption">
             <h3>Fourth Image</h3>
         </div>
     </div>
     <div class="item">
-        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/12994400_1153634044700865_8376730717030738370_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeGuA0iSqss5EAZI-mRkL4_TV3UcY0oUaTc_SvOeUxe6WMwgHfYqYFzyqm7GEK_GdEHl_lZ_FKxw72L9IgBJwpvQS_eLbSem_sZuZgc8tHXiow&oh=8b812ebadbc3bb09fc03897417e3c210&oe=5ABB93C8" data-color="tomato" alt="Fifth Image">
+        <img src="https://scontent.fsub6-2.fna.fbcdn.net/v/t1.0-9/12994400_1153634044700865_8376730717030738370_n.jpg?_nc_fx=fsub6-2&_nc_eui2=v1%3AAeGuA0iSqss5EAZI-mRkL4_TV3UcY0oUaTc_SvOeUxe6WMwgHfYqYFzyqm7GEK_GdEHl_lZ_FKxw72L9IgBJwpvQS_eLbSem_sZuZgc8tHXiow&oh=8b812ebadbc3bb09fc03897417e3c210&oe=5ABB93C8" data-color="tomato" alt="Fifth Image" style="width: 100%;">
         <div class="carousel-caption">
             <h3>Fifth Image</h3>
         </div>
