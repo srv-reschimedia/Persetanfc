@@ -348,7 +348,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-clint-eastwood.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He rose to international fame with his role as the Man with No Name in Sergio Leone's Dollars trilogy of spaghetti Westerns during the 1960s ...
@@ -379,7 +379,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-dustin-hoffman.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He has been known for his versatile portrayals of antiheroes and vulnerable characters.[3] He won the Academy Award for Kramer vs. Kramer in 1979 ...
@@ -410,7 +410,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-edward-norton.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He has been nominated for three Academy Awards for his work in the films Primal Fear, American History X and Birdman. He also starred in other roles ...
@@ -441,7 +441,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-michael-caine.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         English actor and author. Renowned for his distinctive working class cockney accent, Caine has appeared in over 115 films and is regarded as a British ...
@@ -472,7 +472,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-harvey-keitel.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         Some of his most notable starring roles were in Martin Scorsese's Mean Streets and Taxi Driver, Ridley Scott's The Duellists and Thelma & Louise, Quentin Tarantino ...
@@ -503,7 +503,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-jack-nicholson.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         Throughout his career, Nicholson has portrayed unique and challenging roles, many of which include dark portrayals of excitable, neurotic and psychopathic characters ...
@@ -534,7 +534,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-jeff-bridges.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He comes from a well-known acting family and began his televised acting in 1958 as a child with his father, Lloyd Bridges, and brother, Beau, on television's Sea Hunt ...
@@ -565,7 +565,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-joaquin-phoenix.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         is an American actor, producer, music video director, musician and activist. For his work as an artist, Phoenix has received a Grammy Award, a Golden Globe Award and three Academy ...
@@ -596,7 +596,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-tom-hanks.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He is known for his roles in Big (1988), Philadelphia (1993), Forrest Gump (1994), Apollo 13 (1995), Saving Private Ryan, You've Got Mail (both 1998), The Green Mile (1999), Cast Away (2000) ...
@@ -627,7 +627,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-philip-seymour-hoffman.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         Best known for his distinctive supporting and character roles – typically lowlifes, bullies, and misfits – Hoffman was a regular presence in films from the early 1990s until his death at age 46.
@@ -658,7 +658,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-paul-newman.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He won numerous awards, including an Academy Award for his performance in the 1986 film The Color of Money,[3] a BAFTA Award, a Screen Actors Guild Award, a Cannes Film Festival Award, an Emmy Award ...
@@ -689,7 +689,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-marlon-brando.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He is hailed for bringing a gripping realism to film acting, and is frequently cited as the greatest and most influential actor of all time.[2] A cultural icon, Brando is most famous for his Academy ...
@@ -720,7 +720,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-kevin-spacey.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         He began his career as a stage actor during the 1980s, before being cast in supporting roles in film and television. He gained critical acclaim in the early 1990s, culminating in his first Academy Award ...
@@ -751,7 +751,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-robert-de-niro.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         His first major film roles were in the sports drama Bang the Drum Slowly (1973) and Martin Scorsese's crime film Mean Streets (1973). In 1974, after being turned down for the role of Sonny Corleone in the crime ...
@@ -782,7 +782,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-steve-mcqueen.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         Called "The King of Cool", his "anti-hero" persona, developed at the height of the Vietnam War-era counterculture, made him a top box-office draw of the 1960s and 1970s. McQueen received an Academy Award nomination for his ...
@@ -813,7 +813,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-rugter-hauer.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         Blonde, blue-eyed, tall and handsome Dutch actor Rutger Hauer has an international reputation for playing everything from romantic leads to action heroes to sinister villains. Hauer was born in Breukelen, a town in the province ...
@@ -844,7 +844,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://u.lorenzoferrara.net/marlenesco/material-card/thumb-morgan-freeman.jpg">
+                        <img class="img-responsive" src="https://scontent.fsub6-3.fna.fbcdn.net/v/t1.0-9/21731081_1669976513066613_3066477329281459870_n.jpg?_nc_fx=fsub6-1&_nc_eui2=v1%3AAeE60qF1dEUceVjb2XkFwYhXhzlqtMXpSgDHS1D70IUM66nPdwU9cbWtpykVzqoJpI5plRUFO2a2ah2avkp_gtz8-xlI3Q6C-RtwGdTBzkHOyg&oh=9a2121e06cc4b980f50310b65aeb5391&oe=5AC93ABA">
                     </div>
                     <div class="mc-description">
                         Freeman has received Academy Award nominations for his performances in Street Smart, Driving Miss Daisy, The Shawshank Redemption and Invictus ...
