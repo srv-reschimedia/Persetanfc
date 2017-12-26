@@ -1021,7 +1021,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://localhost/website/Persetanfc/css/logo.png">
+                        <img class="img-responsive" src="https://persetanfc.com/css/logo.png">
                     </div>
                     <div class="mc-description">
                          Nama : Rahmad Firmansyah <br>
@@ -1057,7 +1057,7 @@
                 </h2>
                 <div class="mc-content">
                     <div class="img-container">
-                        <img class="img-responsive" src="http://localhost/website/Persetanfc/css/logo.png">
+                        <img class="img-responsive" src="https://persetanfc.com/css/logo.png">
                     </div>
                     <div class="mc-description">
                          Nama : Rahmad Firmansyah <br>
